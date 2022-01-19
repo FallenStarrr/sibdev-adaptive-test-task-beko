@@ -108,6 +108,11 @@
     z-index: 1000;
     transition: all .1s ease-in-out;
   }
+    
+   
+   .glass {
+   position: relative; display: block; left: 55px;
+  }  
 
   
 
@@ -136,7 +141,7 @@
 
 }
 
-@
+
 
 .nav__search {
   position: relative;
